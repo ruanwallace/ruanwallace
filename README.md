@@ -21,6 +21,6 @@ Um desenvolvedor iniciante, comprometido com o que faz, sempre se aperfeiçoando
 </div>
 <div>
   <a href="https://github.com/ruanwallace">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanwallace&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanwallace&theme=tokyonight">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ruanwallace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 </div>
