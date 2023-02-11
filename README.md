@@ -4,7 +4,7 @@ Um desenvolvedor iniciante, comprometido com o que faz, sempre se aperfeiçoando
  
  ##
  
- ### Conecte-se comigo:
+ #### Conecte-se comigo:
 <div>
   <a href="https://www.linkedin.com/in/ruanwallace2k/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ruanwallace2k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@ Um desenvolvedor iniciante, comprometido com o que faz, sempre se aperfeiçoando
 
 ##
 
-### Linguagens:
+#### Linguagens:
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
