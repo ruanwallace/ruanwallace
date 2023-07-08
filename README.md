@@ -1,6 +1,6 @@
 ### Olá! Me chamo Ruan Wallace.
 
-Um desenvolvedor iniciante, comprometido com o que faz, sempre se aperfeiçoando dia após dia.
+Desenvolvedor, comprometido com o que faz, sempre se aperfeiçoando dia após dia.
  
  ##
  
